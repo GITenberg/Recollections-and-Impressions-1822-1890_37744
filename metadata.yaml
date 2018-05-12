@@ -1,0 +1,29 @@
+_repo: Recollections-and-Impressions-1822-1890_37744
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frothingham, Octavius Brooks
+    alias: Frothingham, O. B. (Octavius Brooks)
+    birthdate: 1822
+    deathdate: 1895
+    gutenberg_agent_id: '38462'
+    url: http://www.gutenberg.org/2009/agents/38462
+    wikipedia: http://en.wikipedia.org/wiki/Octavius_Brooks_Frothingham
+description: ''
+gutenberg_issued: '2011-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Unitarians -- New England -- Biography'
+- !lcsh 'Frothingham, Octavius Brooks, 1822-1895'
+- !lcc 'BX'
+title: Recollections and Impressions, 1822-1890
+url: http://www.gutenberg.org/ebooks/37744
